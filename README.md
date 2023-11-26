@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vaishnavi Vibhute</h1>
-<h3 align="center">Fresher | Java | SQL | Web Development Enthusiast | Passionate about Coding and Technology | 
-  Tech-Savvy Professional</h3>
+<h3 align="center">Fresher | Passionate about Coding and Technology | Tech-Savvy Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishnavibhute&label=Profile%20views&color=0e75b6&style=flat" alt="vaishnavibhute" /> </p>
 
